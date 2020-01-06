@@ -1,0 +1,7 @@
+{
+  "name": "project",
+  "projects": [
+    "project/image-distort",
+    "project/fog-generator"
+  ]
+}
