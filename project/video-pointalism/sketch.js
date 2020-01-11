@@ -21,7 +21,7 @@ function draw() {
       var bright = (r + g + b) / 3;
       var w = map(bright, 0, 255, 1, vScale) + 1;
       // noStroke();
-      // fill(r,g,b);
+      // fill(255);
       stroke(color(r,g,b));
       strokeWeight(1);
       noFill();
